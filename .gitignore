@@ -1,0 +1,7 @@
+BiggerIsGreater.sln
+.git/
+.vs/
+Debug/
+BiggerIsGreater/Debug
+BiggerIsGreater/*.vcxproj
+BiggerIsGreater/*.vcxproj.*
